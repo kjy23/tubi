@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/kjy23/tubi/refs/heads/master/tubi_epg.xml"
-# Generated on 2025-06-02T01:57:27.647750
+# Generated on 2025-06-03T01:53:13.766361
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/EwZ67HuPQsqw_g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjZAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/8cba5c00-34f4-45da-a73a-1e3d813a0cfb/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/Xzzw_op-3BJ_Ew==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjZAAQ==" group-title="National News",ABC News Live
@@ -84,8 +84,6 @@ https://live-manifest.production-public.tubi.io/live/e31c9824-2fe1-4f13-885d-779
 https://live-manifest.production-public.tubi.io/live/c33ee7ce-d9dc-41cd-8960-815637099a65/playlist.m3u8
 #EXTINF:-1 tvg-id="400000024" tvg-logo="https://canvas-lb.tubitv.com/opts/O9zi2J2I-luY3A==/aa1f99f5-7a57-44a1-b031-b3a27eceab13/CHgQeDoFMS4xLjZAAQ==" group-title="Sports On Now",DAZN Ringside
 https://live-manifest.production-public.tubi.io/live/656fc320-a76f-4be3-9b0d-50bc42fa59dd/playlist.m3u8
-#EXTINF:-1 tvg-id="400000084" tvg-logo="https://canvas-lb.tubitv.com/opts/RjSV-Q9zP6eN6g==/76d45b1b-7f2f-4a16-94ae-b4a71ff5f6ed/CHgQeDoFMS4xLjZAAQ==" group-title="Sports On Now",DAZN Women's Football
-https://live-manifest.production-public.tubi.io/live/02e44bfa-2698-42e1-bd10-0f737d939992/playlist.m3u8
 #EXTINF:-1 tvg-id="670604" tvg-logo="https://canvas-lb.tubitv.com/opts/QGIqU75Kx5A8og==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjZAAQ==" group-title="Games & Competition",Deal or No Deal USA
 https://live-manifest.production-public.tubi.io/live/262bfc2b-1485-4f58-8fa8-e73c01921023/playlist.m3u8
 #EXTINF:-1 tvg-id="400000098" tvg-logo="https://canvas-lb.tubitv.com/opts/TlCTTxrgUYh9Vg==/982ab39c-a6a8-472b-9210-3b009956dee1/CHgQeDoFMS4xLjZAAQ==" group-title="Reality",Deal Zone

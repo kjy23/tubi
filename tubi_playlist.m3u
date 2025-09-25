@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/kjy23/tubi/refs/heads/master/tubi_epg.xml"
-# Generated on 2025-09-24T01:42:17.883328
+# Generated on 2025-09-25T01:45:52.499972
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="National News",ABC News Live
@@ -129,7 +129,7 @@ https://live-manifest.production-public.tubi.io/live/7d346182-3c47-4c64-b8d6-cca
 #EXTINF:-1 tvg-id="555121" tvg-logo="https://canvas-lb.tubitv.com/opts/pMClKXrP_v_XCw==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjhAAQ==" group-title="Local News",FOX 5 Washington DC
 https://live-manifest.production-public.tubi.io/live/8243cded-cf4c-489a-a5f1-6a2d1b68c3f8/playlist.m3u8
 #EXTINF:-1 tvg-id="555382" tvg-logo="https://canvas-lb.tubitv.com/opts/FuDUf_O9rDdF4w==/bbbed8f2-f666-49ad-8288-03f049585e3d/CHgQeDoFMS4xLjhAAQ==" group-title="Black Entertainment",FOX SOUL
-https://live-manifest.production-public.tubi.io/live/c2fde299-8faa-4907-9f77-100a2f261110/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/99849dd6-1831-49d8-9cec-408d4e404445/playlist.m3u8
 #EXTINF:-1 tvg-id="613695" tvg-logo="https://canvas-lb.tubitv.com/opts/BKBzWDRojggDxQ==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjhAAQ==" group-title="Español",Fox Sports Extra
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/QdomsJC-kJvpPQ==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",FOX Sports on Tubi
